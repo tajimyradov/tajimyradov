@@ -6,7 +6,7 @@
 
 # 👋 Hello World! I'm **Nurmuhammet Tajimyradov**
 
-### � Backend Engineer | **Golang** Specialist | High-Scale Systems Architect
+### � Backend Engineer | **Golang** Specialist
 
 Passionate about crafting **blazing-fast APIs**, **distributed systems**, and **data-intensive applications**. I thrive
 on optimizing performance, solving complex problems, and building resilient backend infrastructure.
@@ -33,7 +33,7 @@ on optimizing performance, solving complex problems, and building resilient back
 ![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC00?style=flat-square&logo=clickhouse&logoColor=black)
 
 </div>
----
+
 
 ## 🏆 **GitHub Highlights**
 
