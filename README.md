@@ -18,20 +18,9 @@ on optimizing performance, solving complex problems, and building resilient back
 
 ## 🛠️ **Tech Stack & Arsenal**
 
-### **Languages & Frameworks**
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=go,postgresql,redis,docker,git,javascript,cpp,linux,nginx,graphql" height="55" />
-</div>
-
-### **Databases & Storage**
-
-<div align="center">
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white)
-![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC00?style=flat-square&logo=clickhouse&logoColor=black)
-
 </div>
 
 
