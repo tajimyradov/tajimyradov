@@ -6,7 +6,7 @@
 
 # 👋 Hello World! I'm **Nurmuhammet Tajimyradov**
 
-### � Backend Engineer | **Golang** Specialist
+### 🖥️ Backend Engineer | **Golang** Specialist
 
 Passionate about crafting **blazing-fast APIs**, **distributed systems**, and **data-intensive applications**. I thrive
 on optimizing performance, solving complex problems, and building resilient backend infrastructure.
@@ -20,7 +20,7 @@ on optimizing performance, solving complex problems, and building resilient back
 
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=go,postgresql,redis,docker,git,javascript,cpp,linux,nginx,graphql" height="55" />
+  <img src="https://skillicons.dev/icons?i=go,cpp,python,javascript,graphql,postgresql,mysql,sqlite,redis,git,linux,nginx,docker,kubernetes,kafka,rabbitmq&perline=20" height="55" />
 </div>
 
 
@@ -50,6 +50,9 @@ on optimizing performance, solving complex problems, and building resilient back
   </a>
   <a href="https://www.instagram.com/tajimyradov/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.t.me/tajimyradov/">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </div>
 
